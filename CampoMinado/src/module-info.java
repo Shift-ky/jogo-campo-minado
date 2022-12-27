@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author famil
+ *
+ */
+module CampoMinado {
+}
